@@ -39,7 +39,7 @@ const Navbar = () => {
 
         <div className="flex flex-row gap-5">
           {Socials.map((social) => (
-            <a href="https://discord.com" target="_blank" rel="noopener noreferrer" key={social.name}>
+            <a href="https://disboard.org/server/join/1122569383655510066" target="_blank" rel="noopener noreferrer" key={social.name}>
               <Image
                 src={social.src}
                 alt={social.name}
