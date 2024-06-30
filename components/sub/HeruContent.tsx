@@ -11,7 +11,7 @@ import { SparklesIcon } from "@heroicons/react/24/solid";
 import Image from "next/image";
 
 const Heru = () => {
-  const discordServerLink = "https://discord.gg/gK6f2r2t";
+  const discordServerLink = "https://disboard.org/server/join/1122569383655510066";
 
   const handleDiscordClick = () => {
     window.open(discordServerLink, "_blank");

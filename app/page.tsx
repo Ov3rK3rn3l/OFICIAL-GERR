@@ -3,6 +3,7 @@ import Treinos from "@/components/main/Treinos";
 import Jogos from "@/components/main/Jogos";
 
 
+
 export default function Home() {
   return (
     <main className="h-full w-full">

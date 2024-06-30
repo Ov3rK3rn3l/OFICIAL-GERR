@@ -18,7 +18,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+
+
+    <html lang="pt-BR">
+
       <body
         className={`${inter.className} bg-[#000000] overflow-y-scroll overflow-x-hidden`}
       >
